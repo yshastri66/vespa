@@ -1,1 +1,2 @@
-/search/?yql=select+*+from+sources+*+where+category+contains+%22POLITICS%22
+/search/
+{"yql" : "select * from sources * where headline contains \"Russian Hacking Fuels Return To Paper Ballots\""}
