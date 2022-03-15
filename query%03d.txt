@@ -1,1 +1,1 @@
-/search/?yql=select%20%2A%20from%20sources%20%2A%20where%20true
+/search/?yql=select+*+from+sources+*+where+category+contains+%22POLITICS%22
